@@ -98,4 +98,4 @@ The pipeline automatically evaluates models using 5-fold cross-validation. Metri
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information..
