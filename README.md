@@ -16,7 +16,7 @@ A production-grade machine learning system designed to robustly classify emails 
 - **Frontend**: Streamlit
 - **ML Framework**: Scikit-learn
 - **Data Processing**: Pandas, NumPy, BeautifulSoup4..
-- **Project Management**: `uv` (recommended) or `pip`
+- **Project Management**: `uv` (recommended) or `pip`.
 
 ## 📂 Project Structure
 
