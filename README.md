@@ -20,7 +20,7 @@ A production-grade machine learning system designed to robustly classify emails 
 
 ## 📂 Project Structure
 
-```=
+```
 ├── app.py                  # Main Streamlit Web Application
 ├── requirements.txt        # Project dependencies
 ├── main.py                 # (Optional) Alternative entry point
